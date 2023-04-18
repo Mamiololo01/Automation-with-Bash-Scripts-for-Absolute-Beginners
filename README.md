@@ -63,6 +63,8 @@ Step 3: Make the Script Executable
 
 Shell scripts must be executed in order for us to prompt our system to run the commands within them when we call for their execution. We need to make our new serverspinup.sh script executable by using the following command in our terminal:
 
+<img width="841" alt="Screenshot 2023-04-18 at 09 17 56" src="https://user-images.githubusercontent.com/67044030/232720364-78f9291b-9005-4f4c-acba-c003883fe0f1.png">
+
 Step 3: Test our Script
 Running our script is easy we preface our file name with “./”:
 
