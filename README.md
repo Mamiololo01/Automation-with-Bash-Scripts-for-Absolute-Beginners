@@ -80,4 +80,6 @@ If your script is running successfully, you should see something similar to this
 Step 4: Verify Results in Web Browser
 Now open your web browser and type in your Web Server IP address to verify that your web server is live. Your new web servers should display the default Apache page:
 
+<img width="876" alt="Screenshot 2023-04-18 at 09 25 40" src="https://user-images.githubusercontent.com/67044030/232720990-6693fdd6-a217-484d-9ca3-8abc5f2dbbec.png">
+
 
