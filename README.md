@@ -68,6 +68,8 @@ Shell scripts must be executed in order for us to prompt our system to run the c
 Step 3: Test our Script
 Running our script is easy we preface our file name with “./”:
 
+<img width="872" alt="Screenshot 2023-04-18 at 09 18 39" src="https://user-images.githubusercontent.com/67044030/232720575-e074add7-0387-4d30-a79d-4f32eee780a8.png">
+
 
 
 If your script is running successfully, you should see something similar to this in your CLI:
