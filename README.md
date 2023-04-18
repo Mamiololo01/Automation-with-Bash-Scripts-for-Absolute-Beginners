@@ -74,7 +74,7 @@ Running our script is easy we preface our file name with “./”:
 
 If your script is running successfully, you should see something similar to this in your CLI:
 
-
+<img width="859" alt="Screenshot 2023-04-18 at 09 25 52" src="https://user-images.githubusercontent.com/67044030/232720815-bab9d1b4-7712-471d-be0a-22ae8feaa3fa.png">
 
 
 Step 4: Verify Results in Web Browser
