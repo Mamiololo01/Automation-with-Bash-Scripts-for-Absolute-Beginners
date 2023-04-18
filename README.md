@@ -33,6 +33,8 @@ You can call the file name whatever you want. But convention says to name it som
 
 In Nano write the following commands:
 
+<img width="658" alt="Screenshot 2023-04-18 at 09 16 29" src="https://user-images.githubusercontent.com/67044030/232719853-de0c7b5a-7cf3-4bb4-a099-cf8447ee8c3e.png">
+
 Let’s break down what we’ve written in our script:
 
 !# - prompts our terminal that we are creating an executable script and
