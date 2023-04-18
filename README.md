@@ -27,6 +27,8 @@ In the interest of time and your attention span, I am going to copy those comman
 
 Step 2: SSH, Create a Blank Script File using Nano command, Write our Script
 
+<img width="727" alt="Screenshot 2023-04-18 at 09 16 50" src="https://user-images.githubusercontent.com/67044030/232720126-48528ef8-6df5-424e-aa7c-e54a9e2b1793.png">
+
 This will create an empty file called “serverspinup.sh” and enter the nano editor.
 
 You can call the file name whatever you want. But convention says to name it something that resembles the script’s function and end the file extension with .sh which is the standard file extension for scripts.
